@@ -12,6 +12,6 @@ export async function Projects() {
       {projects.map((project) => (
         <ProjectCard project={project} key={project._id} />
       ))}
-    </ul> : <strong>🔥 产品和项目很多，待我慢慢更新！</strong>
+    </ul> : <strong>coming soon!</strong>
   )
 }
