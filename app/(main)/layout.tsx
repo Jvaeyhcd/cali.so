@@ -28,7 +28,7 @@ export default function BlogLayout({
           <Header />
           <main>{children}</main>
           <Suspense>
-            <Footer />
+            {/* <Footer /> */}
           </Suspense>
         </div>
       </QueryProvider>
