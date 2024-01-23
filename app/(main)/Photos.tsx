@@ -13,12 +13,12 @@ import image4 from '~/assets/highlights/highlight-4.jpg'
 
 const images = [image6, image4, image1, image2, image3, image5]
 const alts = [
-  '我的猫躺在我的工作台桌子上的键盘旁边',
-  '我在西雅图城市大学举办的技术演讲',
-  'Xbox 团队给我专属定制的控制器',
-  '佐玩的办公室大厅，背景墙挂着一个黑色的佐玩氛围布',
-  '我举着酒杯看着手机',
-  '我在用 Ableton Push 制作电子乐',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
 ]
 
 export function Photos() {
