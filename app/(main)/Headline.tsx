@@ -101,12 +101,12 @@ export function Headline() {
           platform="twitter"
         />
         {/* <SocialLink
-          href="https://cali.so/youtube"
+          href="https://jvaeyhcd.fun/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://cali.so/bilibili"
+          href="https://jvaeyhcd.fun/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         /> */}

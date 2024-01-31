@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: 'Jvaeyhcd',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://cali.so',
+    url: 'https://jvaeyhcd.fun',
   },
   twitter: {
     site: '@thecalicastle',

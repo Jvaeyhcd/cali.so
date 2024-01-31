@@ -4,7 +4,7 @@ export const seo = {
     '',
   url: new URL(
     process.env.NODE_ENV === 'production'
-      ? 'https://cali.so'
+      ? 'https://jvaeyhcd.fun'
       : 'http://localhost:3000'
   ),
 } as const
